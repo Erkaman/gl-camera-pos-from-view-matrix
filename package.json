@@ -1,5 +1,5 @@
 {
-  "name": "rotate-vector-about-axis",
+  "name": "gl-camera-pos-from-view-matrix",
   "version": "1.0.0",
   "description": "A helper module that allows you to recover the camera position from a view matrix.",
   "main": "index.js",
