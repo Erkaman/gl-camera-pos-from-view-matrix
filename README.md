@@ -2,9 +2,9 @@
 
 A helper module that allows you to extract the camera position from a view-matrix.
 
-## Usage
-
 [![NPM](https://nodei.co/npm/gl-camera-pos-from-view-matrix.png)](https://www.npmjs.com/package/gl-camera-pos-from-view-matrix)
+
+## Usage
 
 ### `function getCameraPosFromViewMatrix(out, viewMatrix)`
 
