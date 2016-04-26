@@ -1,4 +1,4 @@
-# rotate-vector-about-axis
+# gl-camera-pos-from-view-matrix
 
 A helper module that allows you to extract the camera position from a view-matrix.
 
